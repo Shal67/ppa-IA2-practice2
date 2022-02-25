@@ -1,2 +1,3 @@
 language = "c"
-run = "echo hello"
+run = "gcc -g p8original.c; ./a.out"
+
